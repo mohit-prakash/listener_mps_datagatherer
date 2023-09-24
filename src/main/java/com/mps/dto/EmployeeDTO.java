@@ -1,4 +1,4 @@
-package com.mps.listener_mps_datagatherer.dto;
+package com.mps.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

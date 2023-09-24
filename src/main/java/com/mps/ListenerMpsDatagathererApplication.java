@@ -1,4 +1,4 @@
-package com.mps.listener_mps_datagatherer;
+package com.mps;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
